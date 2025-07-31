@@ -1,6 +1,8 @@
-﻿streamlit
-nltk
-Pillow
+streamlit
+pandas
+scikit-learn
+matplotlib
+joblib
 
 
 
